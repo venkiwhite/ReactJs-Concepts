@@ -1,3 +1,0 @@
-react-memo-vs-usememo
-
-https://blog.logrocket.com/react-memo-vs-usememo/

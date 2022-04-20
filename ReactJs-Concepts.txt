@@ -1,0 +1,7 @@
+react-memo-vs-usememo:
+
+https://blog.logrocket.com/react-memo-vs-usememo/
+
+react-usereducer:
+
+https://dmitripavlutin.com/react-usereducer/
